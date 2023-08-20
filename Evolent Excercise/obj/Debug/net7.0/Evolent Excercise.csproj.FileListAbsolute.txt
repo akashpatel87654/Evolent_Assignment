@@ -1,0 +1,36 @@
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\appsettings.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Evolent Excercise.exe
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Evolent Excercise.deps.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Evolent Excercise.runtimeconfig.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Evolent Excercise.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Evolent Excercise.pdb
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.csproj.AssemblyReference.cache
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.AssemblyInfoInputs.cache
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.AssemblyInfo.cs
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.csproj.CoreCompileInputs.cache
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets\msbuild.Evolent Excercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets\msbuild.build.Evolent Excercise.props
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Evolent Excercise.props
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Evolent Excercise.props
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\scopedcss\bundle\Evolent Excercise.styles.css
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.csproj.CopyComplete
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\refint\Evolent Excercise.dll
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.pdb
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\Evolent Excercise.genruntimeconfig.cache
+C:\Users\akash\Downloads\Evolent Excercise\Evolent Excercise\obj\Debug\net7.0\ref\Evolent Excercise.dll
